@@ -3,6 +3,7 @@
 <img src="img/output.png">
 <p style="text-align: center;">an example of optimizing the loss function using the class</p>
 
+
 Implementation of a logistic regression class trained using two types of gradient descent:
 - full (according to all data) gradient descent
 
